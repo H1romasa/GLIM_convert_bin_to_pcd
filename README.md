@@ -33,7 +33,7 @@ This project provides tools for generating and combining point cloud maps from L
 ## Installation
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone [[repository-url]](https://github.com/H1romasa/GLIM_convert_bin_to_pcd.git)
 
 # Install required packages
 pip3 install numpy scipy
