@@ -72,12 +72,6 @@ T_world_origin:
 - The program preserves the original resolution of point clouds
 - Outlier filtering can be adjusted via parameters
 
-## License
-[Your chosen license]
-
-## Authors
-[Your name/organization]
-
 ## Acknowledgments
 - Thanks to the LiDAR SLAM community
 - CloudCompare for visualization support
